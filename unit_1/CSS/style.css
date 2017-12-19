@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head> <link rel="stylesheet" type="text/css" href="css/style.css">
+	<h1>Diane's Business</h1>
+<title>
+<body>
+	body {
+    background-color: black;
+}
+
+h1, p {
+    color: gold;
+}
+	<h1>Batcave</h1>
+    <p>This is the secret headquarters of Batman</p>
+</body>
